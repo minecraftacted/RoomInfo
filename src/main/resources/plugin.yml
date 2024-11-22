@@ -1,0 +1,4 @@
+name: RoomInfo
+version: '${project.version}'
+main: si.f5.actedsauce.roominfo.RoomInfo
+api-version: '1.21'
